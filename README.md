@@ -12,7 +12,7 @@ Minimalistic graphical interface for training and visualizing multiple object de
 
 ## Videos
 
-![2024-03-12 23-59-53 (online-video-cutter com)](https://github.com/VargasCardona/Cascade-Workbench/assets/142677238/1a05ce12-9ab3-49c4-afe0-ca326e67b948)
+![Demo](https://github.com/VargasCardona/Haar-Cascade-Workbench/assets/142677238/b3ae5e8b-0915-431b-8b62-e5bc985479f1)
 
 
 ## Roadmap
